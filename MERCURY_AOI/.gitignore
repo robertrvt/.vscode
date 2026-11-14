@@ -1,0 +1,20 @@
+
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Editor files
+.vscode/
+
+# Private or inspection images
+inspection/
+private_images/
+*.png
+*.jpg
+*.jpeg
+
+# Local environment files
+.env
